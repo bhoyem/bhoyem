@@ -16,7 +16,7 @@ I am a software developer with previous experience in Learning & Development, as
 <img align="center" src="https://github.com/user-attachments/assets/3cfae524-a2fb-4d88-91de-faac75cf8a6b" height = 30 alt="react.js" />
 <img align="center" src="https://github.com/user-attachments/assets/bc7b2697-4ab7-43bf-991a-84953841fc33" height = 30 alt="html 5" />
 <img align="center" src="https://github.com/user-attachments/assets/aaf67553-5b13-4dfd-9d7f-b71f9a7c49d3" height = 30 alt="css" />
-<a><img align="center" src="https://github.com/user-attachments/assets/4f215255-04bf-4c55-9c2b-ad6ab730f8cd" height = 30 alt="flask" style="border-radius:5px"/></a>
+<img align="center" src="https://github.com/user-attachments/assets/4f215255-04bf-4c55-9c2b-ad6ab730f8cd" height = 30 alt="flask"/>
 
 
 
