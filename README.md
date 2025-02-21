@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub page!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Front+end...;Back+end...;Full+Stack+Developer)](https://git.io/typing-svg)
+
 I am a software developer with previous experience in Learning & Development, as well as Real Estate and the military.
 
 <p align="center">
@@ -15,12 +17,12 @@ I am a software developer with previous experience in Learning & Development, as
 
 ### ⌨️ Tech Stack:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb04892b-7b0d-4b2e-afdd-96f89f5900b4" height=30 alt="javascript" />
-  <img src="https://github.com/user-attachments/assets/98f71790-22ff-431a-9a4a-b2a0fc3e2511" height=30 alt="python programming language" />
-  <img src="https://github.com/user-attachments/assets/3cfae524-a2fb-4d88-91de-faac75cf8a6b" height = 30 alt="react.js" />
-  <img src="https://github.com/user-attachments/assets/bc7b2697-4ab7-43bf-991a-84953841fc33" height = 30 alt="html 5" />
-  <img src="https://github.com/user-attachments/assets/aaf67553-5b13-4dfd-9d7f-b71f9a7c49d3" height = 30 alt="css" />
-  <img src="https://github.com/user-attachments/assets/4f215255-04bf-4c55-9c2b-ad6ab730f8cd" height = 30 alt="flask"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30 alt="javascript" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=30 alt="python programming language" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = 30 alt="react.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height = 30 alt="html 5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height = 30 alt="css" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height = 30 alt="flask"/>
 </p>
 
 ### 🧰 Toolkit:
@@ -35,6 +37,11 @@ I am a software developer with previous experience in Learning & Development, as
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" height = 30 alt="replit" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=30 alt="vs code" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height=30 alt="vite" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height=30 alt="pandas" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height=30 alt="postman" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height=30 alt="trello" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height=30 alt="jira" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height=30 alt="numpy" />
 </p>
 
 <p align="center">
