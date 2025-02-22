@@ -10,12 +10,12 @@ I am a software developer with previous experience in Learning & Development, as
 
 </p>
 
-### About me:
+## About me:
 
 💻 I have always been a tech person but I finally made the jump to become a <br>
 👨‍💻 developer in 2024 when I took the full-stack developer course through Skillcrush.
 
-### ⌨️ Tech Stack:
+## ⌨️ Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30 alt="javascript" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=30 alt="python programming language" />
@@ -25,7 +25,7 @@ I am a software developer with previous experience in Learning & Development, as
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height = 30 alt="flask"/>
 </p>
 
-### 🧰 Toolkit:
+## 🧰 Toolkit:
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=30 alt="github" />
@@ -48,9 +48,7 @@ I am a software developer with previous experience in Learning & Development, as
    
 </p>
 
-### 📈 GitHub Stats:
-
-<!--[![GitHub Streak](https://github-readme-streak-stats-self-five.vercel.app?user=bhoyem&theme=react)](https://git.io/streak-stats)-->
+## 📈 GitHub Stats:
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-bryan-hoyems-projects.vercel.app?user=bhoyem&theme=react" alt="GitHub Streak" /></a>
@@ -58,15 +56,4 @@ I am a software developer with previous experience in Learning & Development, as
 
 <!--
 **bhoyem/bhoyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
