@@ -5,8 +5,8 @@
 I am a software developer with previous experience in Learning & Development, as well as Real Estate and the military.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryanhoyem" target="blank"><img src="https://github.com/user-attachments/assets/3c11c1f6-ee23-40ec-840c-8754e5d041e0" height=30 /></a>
-  <a href="https://discord.com/channels/@bhoyem" target="blank"><img src="https://github.com/user-attachments/assets/9f8dfe59-6c76-474a-b368-dfc174bd7ad2" height=30 /></a>
+  <a href="https://www.linkedin.com/in/bryanhoyem" target="blank"><img src="https://github.com/user-attachments/assets/3c11c1f6-ee23-40ec-840c-8754e5d041e0" height=50 /></a>
+  <a href="https://discord.com/channels/@bhoyem" target="blank"><img src="https://github.com/user-attachments/assets/9f8dfe59-6c76-474a-b368-dfc174bd7ad2" height=50 /></a>
 
 </p>
 
