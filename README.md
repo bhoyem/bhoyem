@@ -51,7 +51,7 @@ I am a software developer with previous experience in Learning & Development, as
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-bryan-hoyems-projects.vercel.app?user=bhoyem&theme=react" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-self-five.vercel.app?user=bhoyem&theme=react&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <!--
