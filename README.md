@@ -17,7 +17,7 @@ I am a software developer with previous experience in Learning & Development, as
 
 ## ⌨️ Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30 alt="javascript" />
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30 alt="javascript" /></a>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=30 alt="python programming language" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = 30 alt="react.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height = 30 alt="html 5" />
