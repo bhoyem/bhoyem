@@ -28,9 +28,9 @@ I am a software developer with previous experience in Learning & Development, as
 ## 🧰 Toolkit:
 
 <p align="center">
-  <a href="#---"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=30 alt="github" /></a>
+<!--  <a href="#---"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=30 alt="github" /></a>
   <a href="#---"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" height = 30 alt="github pages" /></a>
-  <a href="#---"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height = 30 alt="git" /></a>
+  <a href="#---"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height = 30 alt="git" /></a> -->
   <a href="#---"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height = 30 alt="vercel" /></a>
   <a href="#---"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height = 30 alt = "netlify" /></a>
   <a href="#---"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" height = 30 alt="code sandbox" /></a>
