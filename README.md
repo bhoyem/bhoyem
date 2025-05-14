@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub page!
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Front+end...;Back+end...;Full+Stack+Developer)](https://git.io/typing-svg)
-
+-->
 I am a software developer with previous experience in Learning & Development, as well as Real Estate and the military.
 
 <p align="center">
