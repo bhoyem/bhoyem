@@ -43,17 +43,13 @@ I am a software developer with previous experience in Learning & Development, as
   <a href="#---"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height=30 alt="jira" /></a>
   <a href="#---"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height=30 alt="numpy" /></a>
 </p>
-
-<p align="center">
-   
-</p>
-
+<!--
 ## 📈 GitHub Stats:
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-self-five.vercel.app?user=bhoyem&theme=react&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
-
+-->
 <!--
 **bhoyem/bhoyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
