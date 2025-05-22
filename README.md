@@ -2,7 +2,8 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Front+end...;Back+end...;Full+Stack+Developer)](https://git.io/typing-svg)
 -->
-I am a software developer with previous experience in Learning & Development, as well as Real Estate and the military.
+I am a software developer focusing currently on React and with skills in Python, Flask, Typescript, Node.js and others.
+I also have past experience in the military, Learning & Development, project management, and Real Estate.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanhoyem" target="blank"><img src="https://github.com/user-attachments/assets/3c11c1f6-ee23-40ec-840c-8754e5d041e0" height=50 /></a>
