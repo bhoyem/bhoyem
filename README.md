@@ -2,8 +2,7 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Front+end...;Back+end...;Full+Stack+Developer)](https://git.io/typing-svg)
 -->
-I am a software developer focusing currently on React and with skills in Python, Flask, Typescript, Node.js and others.
-I also have past experience in the military, Learning & Development, project management, and Real Estate.
+Full-stack developer with expertise in React, TypeScript, Tailwind CSS, Python, and Flask. Current interests include Node.js and MongoDB. I bring a depth of experience working in teams in challenging fields and my mission is to leverage these skills and experience toward creating efficient, customer oriented apps and content.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanhoyem" target="blank"><img src="https://github.com/user-attachments/assets/3c11c1f6-ee23-40ec-840c-8754e5d041e0" height=50 /></a>
